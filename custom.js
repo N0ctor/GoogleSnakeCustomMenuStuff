@@ -341,7 +341,7 @@ window.snake.more_menu = function(e) {
                   ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                 }
               } else if(${thjaselcdtctedaboupplelcountthingffjfjfjfjfjfjfjfjfjfj} === 8) {
-                  for (i=0;i<10000;i++) {
+                  for (i=0;i<30000;i++) {
                     ${pafihwotyhopyplacetheiopafsjafijplesllllllll} -1, 0));
                   }
               } else
